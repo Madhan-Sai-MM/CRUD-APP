@@ -1,0 +1,28 @@
+[
+    {
+        "fname": "madhan",
+        "lname": "sai",
+        "email": "mm@gmail.com",
+        "job": "MERN DEVELOPER",
+        "gender": "on",
+        "hobbie": "SOLVING HACKERSRANK"
+    },
+    {
+        "fname": "madhan",
+        "lname": "sai",
+        "email": "mm@gmail.com",
+        "job": "MERN DEVELOPER",
+        "gender": "on",
+        "hobbie": "SOLVING HACKERSRANK"
+    },
+    {
+        "fname": "mm",
+        "lname": "mm",
+        "email": "ss@gmail.com",
+        "city": "vskp",
+        "zipcode": "15",
+        "job": "BACK-END DEVELOPER",
+        "gender": "on",
+        "hobbie": "WRITING CODE"
+    }
+]
